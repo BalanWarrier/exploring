@@ -1,0 +1,4 @@
+.metadata/
+bin/
+targets/
+doNotTrackText.txt
